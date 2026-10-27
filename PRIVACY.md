@@ -23,7 +23,7 @@ You can revoke Accessibility and Screen Recording in System Settings → Privacy
 Apple’s operating-system services and any support correspondence you choose to send are governed separately. This notice describes the Tarna app itself.
 
 Software updates
-The standalone edition uses Sparkle to check a public HTTPS feed hosted by GitHub. GitHub receives ordinary connection information, such as your IP address, when the app checks or downloads updates; its own privacy policy governs its service. System profiling is disabled. No interface content, recognized text, or typed keys are included. Update archives and the feed must be cryptographically signed. You can turn automatic checks off in Tarna's menu and check manually instead. Downloaded versions require your installation confirmation.
+The standalone edition uses Sparkle to check a public HTTPS feed hosted by GitHub. GitHub receives ordinary connection information, such as your IP address, when the app checks or downloads updates; its own privacy policy governs its service. System profiling is disabled. No interface content, recognized text, or typed keys are included. Update archives and the feed must be cryptographically signed. You can turn automatic checks off in Tarna's menu and check manually instead. Automatic installation is off by default; you can opt in through Sparkle's update interface.
 
 ---
 
@@ -33,7 +33,7 @@ Updated 26 October 2026
 Tarna provides keyboard navigation using visible text and a precision grid. It processes everything on your Mac. It has no account system, advertising, analytics SDK, or network client. Updates come only from the Mac App Store.
 
 Screen Recording
-With your permission, Tarna captures your displays and recognizes visible words with Apple Vision. It excludes its own windows from these captures. Recognition runs during quiet preparation as well as hint sessions. Images are transient and are never saved or uploaded. Recent text labels, coordinates, and image fingerprints remain in memory briefly for reuse and disappear when Tarna quits. The app does not inspect another app’s accessibility tree.
+With your permission, Tarna captures your displays and recognizes visible words with Apple Vision. It excludes its own hint overlays from these captures. Recognition runs during quiet preparation as well as hint sessions. Images are transient and are never saved or uploaded. Recent text labels, coordinates, and image fingerprints remain in memory briefly for reuse and disappear when Tarna quits. The app does not inspect another app’s accessibility tree.
 
 Input Monitoring and clicking access
 Input Monitoring lets Tarna recognize its shortcut and hint keys. Clicking access appears under Accessibility in System Settings and lets Tarna post the click or scroll you request. These are Core Graphics event permissions. Ordinary keys pass through outside navigation; Tarna does not record typed text or maintain a keystroke history.
