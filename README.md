@@ -2,7 +2,19 @@
 
 Keyboard navigation for your Mac. Press **Shift–Command–Period**, then type a hint to choose a control. Tarna combines native control discovery with automatic text recognition that runs on your Mac.
 
-The first signed public release is being prepared. Download links will appear here after signing, notarization, and update installation have been verified.
+## Download
+
+**[Download Tarna 1.0.0 for Mac (.dmg)](https://github.com/Halmoslabs/tarna-releases/releases/download/v1.0.0/Tarna-1.0.0-macos.dmg)** · [ZIP download](https://github.com/Halmoslabs/tarna-releases/releases/download/v1.0.0/Tarna-1.0.0-macos.zip) · [Release notes and checksums](https://github.com/Halmoslabs/tarna-releases/releases/tag/v1.0.0)
+
+Requires **macOS 14 or later**. The download supports Apple silicon and Intel, is signed by Halmos Labs, Inc., and is notarized by Apple.
+
+1. Open the DMG and drag **Tarna** to **Applications**.
+2. Open Tarna and grant Accessibility and Screen Recording when prompted.
+3. Press **Shift–Command–Period** to show hints. Press **Escape** to dismiss them.
+
+For updates, open Tarna's menu-bar menu and choose **Check for Updates…**. Automatic checks can be turned on or off in the same menu. Downloads and the update feed are cryptographically signed; automatic installation is off by default.
+
+The standalone edition includes Sparkle for secure updates. [Third-party software notices](THIRD-PARTY-NOTICES.txt) are included with its downloads.
 
 ## Editions
 
