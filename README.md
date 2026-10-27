@@ -4,7 +4,7 @@ Keyboard navigation for your Mac. Press **Shift–Command–Period**, then type 
 
 ## Download
 
-**[Download Tarna 1.0.1 for Mac (.dmg)](https://github.com/Halmoslabs/tarna-releases/releases/download/v1.0.1/Tarna-1.0.1-macos.dmg)** · [ZIP download](https://github.com/Halmoslabs/tarna-releases/releases/download/v1.0.1/Tarna-1.0.1-macos.zip) · [Release notes and checksums](https://github.com/Halmoslabs/tarna-releases/releases/tag/v1.0.1)
+**[Download Tarna 1.0.2 for Mac (.dmg)](https://github.com/Halmoslabs/tarna-releases/releases/download/v1.0.2/Tarna-1.0.2-macos.dmg)** · [ZIP download](https://github.com/Halmoslabs/tarna-releases/releases/download/v1.0.2/Tarna-1.0.2-macos.zip) · [Release notes and checksums](https://github.com/Halmoslabs/tarna-releases/releases/tag/v1.0.2)
 
 Requires **macOS 14 or later**. The download supports Apple silicon and Intel, is signed by Halmos Labs, Inc., and is notarized by Apple.
 
