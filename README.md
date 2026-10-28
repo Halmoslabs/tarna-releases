@@ -4,7 +4,7 @@ Keyboard navigation for your Mac. Press **Shift–Command–Period**, then type 
 
 ## Download
 
-**[Download Tarna 1.0.3 for Mac (.dmg)](https://github.com/Halmoslabs/tarna-releases/releases/download/v1.0.3/Tarna-1.0.3-macos.dmg)** · [ZIP download](https://github.com/Halmoslabs/tarna-releases/releases/download/v1.0.3/Tarna-1.0.3-macos.zip) · [Release notes and checksums](https://github.com/Halmoslabs/tarna-releases/releases/tag/v1.0.3)
+**[Download Tarna 1.0.4 for Mac (.dmg)](https://github.com/Halmoslabs/tarna-releases/releases/download/v1.0.4/Tarna-1.0.4-macos.dmg)** · [ZIP download](https://github.com/Halmoslabs/tarna-releases/releases/download/v1.0.4/Tarna-1.0.4-macos.zip) · [Release notes and checksums](https://github.com/Halmoslabs/tarna-releases/releases/tag/v1.0.4)
 
 Requires **macOS 14 or later**. The download supports Apple silicon and Intel, is signed by Halmos Labs, Inc., and is notarized by Apple.
 
@@ -12,7 +12,9 @@ Requires **macOS 14 or later**. The download supports Apple silicon and Intel, i
 2. Open Tarna and grant Accessibility and Screen Recording when prompted.
 3. Press **Shift–Command–Period** to show hints. Press **Escape** to dismiss them.
 
-Change the hint and scrolling shortcuts in **Settings → Shortcuts**. Restore Defaults brings back the original bindings.
+For scrolling, show hints first, press **Shift–S**, and choose an area. Use **J/K/H/L** to scroll; **Escape** finishes. In the direct edition, detected scroll areas receive a subtle outline after 1.5 seconds with hints open, or immediately when selecting a scroll area.
+
+Change the hint and scrolling shortcuts in **Settings → Shortcuts**. The page groups them by when they work: anywhere, while hints are open, or after selecting a scroll area. Restore Defaults brings back the original bindings.
 
 For updates, open Tarna's menu-bar menu and choose **Check for Updates…**, or use **Settings → General**. Automatic checks can be turned on or off there. Downloads and the update feed are cryptographically signed; automatic installation is off by default.
 
