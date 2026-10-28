@@ -23,7 +23,7 @@ The standalone edition includes Sparkle for secure updates. [Third-party softwar
 ## Editions
 
 - **Direct download:** native Accessibility targeting, menu-bar hints, automatic local text recognition, grouped lists, and selected-area scrolling. Signed updates are delivered through Sparkle.
-- **Mac App Store:** a separate sandboxed edition using local text recognition and a precision grid for unlabeled controls. It does not inspect other apps’ Accessibility trees. Updates come from the App Store. This edition is in preparation and is not yet available.
+- **Mac App Store:** a separate sandboxed edition using local text recognition and a precision grid for unlabeled controls. It does not inspect other apps’ Accessibility trees. Updates come from the App Store. This edition has been submitted for App Review and is not yet available.
 
 Requires macOS 14 or later. Release builds support Apple silicon and Intel. Coverage depends on the interface; recognized text is not necessarily clickable.
 
